@@ -1,0 +1,33 @@
+*{
+    color:green;
+  }
+  
+  p{
+    color:red;
+  }
+  
+  .blue{
+    color:blue;
+  }
+  
+  .italic{
+    font-style:italic;
+  }
+  
+  #i-am-unique{
+    color:brown;
+  }
+  
+  [disabled="true"]{
+    color:black;
+    width: 100%;
+  }
+
+  .box-model{
+      display: inline-block;
+      width: 300px;
+      padding: 20px;
+      margin: 30px;
+      border: 2px solid red;
+      box-sizing: border-box;
+  }
